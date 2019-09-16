@@ -1,0 +1,7 @@
+{
+"database": "proekt",
+"host": "localhost",
+"user": "root",
+"password": "rootroot",
+"port": 3306
+}
